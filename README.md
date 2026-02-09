@@ -77,3 +77,8 @@ flutter run          # Launch the app
 - [IMPORT_CHECKLIST.md](IMPORT_CHECKLIST.md) - Step-by-step import checklist  
 - [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md) - Expected project structure
 - [.env.example](.env.example) - Environment variables template
+- [FAQ.md](FAQ.md) - Frequently asked questions
+
+## Support
+
+Having trouble? Check the [FAQ.md](FAQ.md) or create an issue on GitHub.
