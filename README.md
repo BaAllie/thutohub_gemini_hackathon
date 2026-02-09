@@ -2,6 +2,8 @@
 
 ThutoHub is a  learning app that helps learners understand concepts in their home language using AI.
 
+> **🚀 Want to import your local project?** Start with [QUICK_START.md](QUICK_START.md) for a 5-minute guide!
+
 ## Problem
 Many South African learners struggle because content is delivered only in English.
 
